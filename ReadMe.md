@@ -24,7 +24,7 @@ git clone https://github.com/your_username/day-night-classifier.git
 * NumPY
 
 ## Results
-The performance of the Day and Night Classifier can be evaluated using metrics such as accuracy, precision, recall, and F1 score. The model's ability to correctly classify daytime and nighttime images is crucial for its practical applicability.
+The performance of the Day and Night Classifier can be evaluated using metrics such as accuracy score. The model's ability to correctly classify daytime and nighttime images is crucial for its practical applicability.
 
 ## Future Improvements
 - Experiment with different CNN architectures and hyperparameters to improve classification accuracy.
